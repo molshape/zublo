@@ -32,3 +32,6 @@ zublo.tar
 
 # Agent tool state
 .commandcode/
+
+# Local development overrides
+docker-compose.override.yml
